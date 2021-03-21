@@ -1,4 +1,4 @@
-# portfolio
+# profile
 
 - 👋 Hi, I’m @jahidthed
 - 👀 I’m interested in Web Development
